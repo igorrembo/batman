@@ -4,9 +4,12 @@ body{
 h1 {
     font-size: 50px;
     color: red;
-    //новый коммент
+    
 }
 h2 {
     color:blue;
     border:blueviolet 3px;
+}
+h3 {
+    color: blue;
 }
